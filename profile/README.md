@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Route%20%26%20Rule&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Network%20Engineering%20%E2%80%A2%20Network%20Security%20%E2%80%A2%20by%20Urvisha%20Bhoi&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=4000&pause=100000&color=00D4FF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Route+%26+Rule" alt="Route & Rule" />
+
+<h3>🌐 Network Engineering · Network Security · by Urvisha Bhoi</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Route+the+traffic.+Rule+the+network.;Securing+networks+one+rule+at+a+time;Curious+about+every+packet;Every+network+is+only+as+strong+as+its+weakest+rule" alt="Typing animation" />
 
